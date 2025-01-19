@@ -1,6 +1,6 @@
 # GitHub Classroom Submission Guide
 
-## Using GitHub Desktop
+## Using GitHub Desktop (instructions for using git from the command line are below)
 1. [Download GitHub Desktop from here.](https://desktop.github.com)
 2. Find the installer in your Downloads folder (or wherever things get downloaded on your computer), then double click the installer to install GitHub Desktop. In most cases, this will install the program in your Downloads folder. 
 3. Launch GitHub Desktop. When you do this, it might ask you if you want to move it to a more appropriate location (e.g., Applications or Programs). You should agree to this, but remember where it is getting moved to so you can find it easily later! I suggest making a shortcut or alias on your Desktop.
